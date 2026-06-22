@@ -1,0 +1,4 @@
+interface:
+  display_name: "Requirements Validation and Change Management"
+  short_description: "Validate baselines and assess changes"
+  default_prompt: "Use $05-validation-change to validate the baseline and assess a proposed change request."
