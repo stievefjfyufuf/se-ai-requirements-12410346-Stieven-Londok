@@ -11,7 +11,7 @@ Audit date: 22 June 2026
 - Editable and PNG use-case diagram: PASS; PNG visually inspected
 - Two cross-case skill tests: PASS
 - AI output review and reflection: PASS
-- Two GitHub issue drafts and templates: PASS
+- Two required public GitHub Issues and reusable templates: PASS
 
 ## Minimum Content Check
 | Item | Required | Found | Result |

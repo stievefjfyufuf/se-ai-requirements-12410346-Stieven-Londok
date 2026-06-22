@@ -36,7 +36,7 @@ This repository demonstrates reusable AI skills for conducting inception, elicit
 - [Skill Test Results](evaluation/skill-test-results.md)
 - [AI Output Review](evaluation/ai-output-review.md)
 - [Reflection](evaluation/reflection.md)
-- [GitHub Issues to Create](evaluation/github-issues.md)
+- [GitHub Issues Evidence](evaluation/github-issues.md)
 - [Repository Audit](evaluation/repository-audit.md)
 - [Change History](CHANGELOG.md)
 
@@ -48,4 +48,4 @@ This repository demonstrates reusable AI skills for conducting inception, elicit
 - Major corrections made: unsupported features removed; ambiguous quality terms made measurable; duplicate requirements merged; traceability and failure criteria added.
 
 ## Baseline Status
-Reviewed baseline version: `1.0` — ready for student identity completion and final human approval.
+Reviewed baseline version: `1.0` — final reviewed assignment baseline.
