@@ -1,0 +1,4 @@
+interface:
+  display_name: "Requirements Elaboration and Specification"
+  short_description: "Specify measurable, testable requirements"
+  default_prompt: "Use $03-specification to generate measurable, uniquely identified requirements and user stories."
