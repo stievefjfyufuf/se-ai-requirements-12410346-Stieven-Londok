@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2026-06-22T00:00:00.000Z" agent="Codex" version="24.7.17">
+  <diagram id="use-case" name="Use Case Diagram">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/><mxCell id="1" parent="0"/>
+        <mxCell id="boundary" value="Student Task Management System" style="swimlane;html=1;rounded=1;strokeColor=#315c9b;fillColor=#ffffff;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="330" y="70" width="820" height="760" as="geometry"/></mxCell>
+        <mxCell id="lecturer" value="Lecturer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1"><mxGeometry x="80" y="170" width="100" height="160" as="geometry"/></mxCell>
+        <mxCell id="student" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1"><mxGeometry x="80" y="530" width="100" height="160" as="geometry"/></mxCell>
+        <mxCell id="admin" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1"><mxGeometry x="1220" y="330" width="100" height="160" as="geometry"/></mxCell>
+        <mxCell id="uc1" value="UC-01 Publish assignment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eef4ff;strokeColor=#315c9b;" vertex="1" parent="1"><mxGeometry x="420" y="140" width="260" height="70" as="geometry"/></mxCell>
+        <mxCell id="uc4" value="UC-04 Grade submission" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eef4ff;strokeColor=#315c9b;" vertex="1" parent="1"><mxGeometry x="420" y="270" width="260" height="70" as="geometry"/></mxCell>
+        <mxCell id="uc2" value="UC-02 View assigned tasks" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eef4ff;strokeColor=#315c9b;" vertex="1" parent="1"><mxGeometry x="420" y="400" width="260" height="70" as="geometry"/></mxCell>
+        <mxCell id="uc3" value="UC-03 Submit assignment" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eef4ff;strokeColor=#315c9b;" vertex="1" parent="1"><mxGeometry x="420" y="530" width="260" height="70" as="geometry"/></mxCell>
+        <mxCell id="uc5" value="UC-05 Track status" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eef4ff;strokeColor=#315c9b;" vertex="1" parent="1"><mxGeometry x="420" y="660" width="260" height="70" as="geometry"/></mxCell>
+        <mxCell id="uc8" value="UC-08 View course report" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eef4ff;strokeColor=#315c9b;" vertex="1" parent="1"><mxGeometry x="760" y="200" width="280" height="70" as="geometry"/></mxCell>
+        <mxCell id="uc6" value="UC-06 Manage users and courses" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eef4ff;strokeColor=#315c9b;" vertex="1" parent="1"><mxGeometry x="760" y="400" width="280" height="70" as="geometry"/></mxCell>
+        <mxCell id="uc7" value="UC-07 Deadline reminder" style="ellipse;whiteSpace=wrap;html=1;fillColor=#eef4ff;strokeColor=#315c9b;" vertex="1" parent="1"><mxGeometry x="760" y="600" width="280" height="70" as="geometry"/></mxCell>
+        <mxCell id="e1" style="endArrow=none;html=1;" edge="1" parent="1" source="lecturer" target="uc1"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e2" style="endArrow=none;html=1;" edge="1" parent="1" source="lecturer" target="uc4"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e3" style="endArrow=none;html=1;" edge="1" parent="1" source="lecturer" target="uc8"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e4" style="endArrow=none;html=1;" edge="1" parent="1" source="student" target="uc2"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e5" style="endArrow=none;html=1;" edge="1" parent="1" source="student" target="uc3"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e6" style="endArrow=none;html=1;" edge="1" parent="1" source="student" target="uc5"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e7" style="endArrow=none;html=1;" edge="1" parent="1" source="student" target="uc7"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e8" style="endArrow=none;html=1;" edge="1" parent="1" source="admin" target="uc6"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e9" style="endArrow=none;html=1;" edge="1" parent="1" source="admin" target="uc8"><mxGeometry relative="1" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
+
