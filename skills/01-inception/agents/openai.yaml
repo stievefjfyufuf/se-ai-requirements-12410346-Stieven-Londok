@@ -1,0 +1,5 @@
+interface:
+  display_name: "Project Inception and Stakeholder Discovery"
+  short_description: "Establish a traceable project foundation"
+  default_prompt: "Use $01-inception to produce a fact-based inception analysis from the case inputs."
+
