@@ -1,7 +1,7 @@
 # AI-Assisted Requirements Engineering Assignment
 
 ## Student Information
-- Name: `[ISI NAMA]`
+- Name: Stieven Londok
 - Student ID: `[ISI NIM]`
 - Class: `[ISI KELAS]`
 - Course: Software Engineering

@@ -31,8 +31,7 @@ All five skills contain valid two-field YAML frontmatter, every assignment-requi
 All local Markdown links in `README.md` resolve to existing files.
 
 ## Human Completion Still Required
-- Replace `[ISI NAMA]`, `[ISI NIM]`, and `[ISI KELAS]`.
+- Replace `[ISI NIM]` and `[ISI KELAS]`.
 - Approve or revise assumption-backed NFR targets.
 - Create the two drafted issues after the GitHub repository exists.
 - Confirm the final public repository URL and last commit in the submission form.
-
