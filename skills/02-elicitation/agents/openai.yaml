@@ -1,0 +1,4 @@
+interface:
+  display_name: "Requirements Elicitation"
+  short_description: "Elicit needs with traceable evidence"
+  default_prompt: "Use $02-elicitation to produce a source-traceable elicitation report from the case evidence."
