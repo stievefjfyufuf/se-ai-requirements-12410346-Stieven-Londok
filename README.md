@@ -3,7 +3,7 @@
 ## Student Information
 - Name: Stieven Londok
 - Student ID: 12410346
-- Class: Belum diinformasikan
+- Class: Software Engineering
 - Course: Software Engineering
 - Lecturer: Andrew Tanny Liem
 
