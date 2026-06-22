@@ -1,0 +1,4 @@
+interface:
+  display_name: "Negotiation and Prioritization"
+  short_description: "Prioritize requirements with trade-offs"
+  default_prompt: "Use $04-prioritization to produce a reasoned MoSCoW prioritization and decision log."
